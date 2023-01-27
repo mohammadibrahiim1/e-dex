@@ -1,0 +1,10 @@
+/* <a href="https://ibb.co/hcsQYYJ"><img src="https://i.ibb.co/1MZyzzt/rs-it-header-img.jpg" alt="rs-it-header-img" border="0"></a> */
+
+.header-section {
+  background-image: url(https://i.ibb.co/1MZyzzt/rs-it-header-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+  width: 100%;
+}
+
